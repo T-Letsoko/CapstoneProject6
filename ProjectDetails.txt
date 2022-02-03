@@ -1,0 +1,3 @@
+Thabo; email; 123890; 12 Road; architect; Jerry; email; 2345; 89 Road; contractor; James Bond; email; 34 Road; 23 Str; customer; House Bond; House; 123 House Road; 12345; PROJ520; 123000.0; 100000.0; 12/12/2024; finalised; 13/06/2022
+Happy; email; 34; 34; architect; Udo; email; 78; 786; contractor; harry gumede; em; 7878; 86; customer; Hotel gumede; Hotel; 233; 32423432; PROJ1577; 123000.0; 100000.0; 12/12/2021; not finalised; 00/00/0000
+Thabang; email; 34; 34 road; architect; James; email; 43; 67 Road; contractor; Yaya Toure; email; 434; 42 road; customer; Hotel One; Hotel; 324; 54543; PROJ4238; 145000000; 1000000; 23/12/2021; not finalised; 00/00/0000
