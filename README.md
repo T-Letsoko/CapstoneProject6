@@ -1,4 +1,4 @@
-# Task Management Project
+# Project Management System
 
 This is a Java Project Management system. It is a system that is used capture project details and stakeholders, edit project details and save them in text file.
 
